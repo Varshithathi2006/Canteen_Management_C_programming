@@ -70,4 +70,3 @@ For educational use only.
 
 ---
 
-If you're reading this, and still not running the program, then what are you doing? Go compile it, coder.
