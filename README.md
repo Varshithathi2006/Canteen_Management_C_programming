@@ -1,4 +1,4 @@
-# Canteen_Management_C_programming
+
 # 🍽️ Canteen Management System
 
 A simple C-based program to manage canteen operations like menu management, order placement, inventory control, and feedback collection. Developed as part of the course 22AIE101: Problem Solving & C Programming (Fall 2023).
@@ -32,3 +32,42 @@ Data is stored persistently using `.txt` or `.csv` files.
 1. Compile the code using any standard C compiler:
    ```bash
    gcc canteen.c -o canteen
+   ```
+
+2. Run the executable:
+   ```bash
+   ./canteen
+   ```
+
+3. Follow the console menu options to interact with the system.
+
+## 📁 File Structure
+
+```
+canteen/
+├── canteen.c             # Main program file
+├── menu.txt / menu.csv   # Stores menu items
+├── feedback.txt / feedback.csv  # Stores customer feedback
+└── README.md             # This file
+```
+
+## 👨‍💻 Team Members
+
+- **Shreya Arun** — Menu display, add item, search item, file handling
+- **Siri Sanjana S** — Place order, display order, txt file support
+- **Varshitha Thilak Kumar** — Refill item, delete item, switch case logic, csv file support
+
+## 📈 Future Improvements
+
+- Add user authentication for admin/customer roles
+- Introduce a GUI interface (maybe stop being allergic to front-end)
+- Integration with payment gateways
+- Real-time inventory sync with databases
+
+## 📄 License
+
+For educational use only.
+
+---
+
+If you're reading this, and still not running the program, then what are you doing? Go compile it, coder.
