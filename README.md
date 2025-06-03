@@ -56,6 +56,9 @@ canteen/
 - **Shreya Arun** — Menu display, add item, search item, file handling
 - **Siri Sanjana S** — Place order, display order, txt file support
 - **Varshitha Thilak Kumar** — Refill item, delete item, switch case logic, csv file support
+- - **Varshitha Thilak Kumar** – varshitha.9a2019@gmail.com
+- **Siri Sanjana S** – sirisanjana.singareddy@gmail.com
+- **Shreya Arun** – shreyaarun005@gmail.com 
 
 ## 📈 Future Improvements
 
